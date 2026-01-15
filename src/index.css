@@ -11,6 +11,7 @@ body {
   justify-content: center;
   padding: 40px;
   background: linear-gradient(135deg, #219ebc, #023047);
+  min-height: 100vh;
 }
 
 code {
@@ -55,7 +56,12 @@ code {
   border: 3px solid rgb(0, 225, 255);
 }
 
-h1,
+h1 {
+  text-align: center;
+  color: #03c2f1;
+  margin-bottom: 0;
+}
 p {
   text-align: center;
+  color: #111111da;
 }

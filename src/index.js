@@ -27,12 +27,12 @@ function Body() {
       </p>
 
       <div className="box-container">
-        <Box text="Frontend Dev" bgColor="#ffee0385" />
-        <Box text="React Learner" bgColor="#0c4dff81" />
-        <Box text="UI Design" bgColor="#54acff8c" />
-        <Box text="JavaScript" bgColor="#fb8600a4" />
-        <Box text="GitHub" bgColor="#c506ac79" />
-        <Box text="Growth Mode" bgColor="#90f4e3a1" />
+        <Box text="Html & Css" bgColor="#ffee036c" />
+        <Box text="React" bgColor="#0c4dff67" />
+        <Box text="UI Design" bgColor="#54acff5e" />
+        <Box text="JavaScript" bgColor="#fb860073" />
+        <Box text="GitHub" bgColor="#c506ac6c" />
+        <Box text="Git" bgColor="#90f4e360" />
       </div>
     </main>
   );
